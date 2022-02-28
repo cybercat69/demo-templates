@@ -1,4 +1,4 @@
-#Demo templates collection
+# Demo templates collection
 
 Demo template collection created by Me.
 
