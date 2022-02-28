@@ -1,0 +1,1 @@
+let switcher = new ThemeSwitcher()

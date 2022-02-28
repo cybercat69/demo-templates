@@ -1,0 +1,23 @@
+
+#theme-switcher {
+    left: 10px;
+    top: 10px;
+    position: absolute;
+}
+
+.rotated {
+    transform: rotate(0deg);
+
+}
+
+#theme-switcher_trigger {
+    cursor: pointer;
+    font-size: 50px;
+    transform: rotate(180deg);
+    opacity: 0.2;
+    transition: 0.5s;
+}
+
+#theme-switcher_trigger:hover {
+    opacity: 1;
+} 
